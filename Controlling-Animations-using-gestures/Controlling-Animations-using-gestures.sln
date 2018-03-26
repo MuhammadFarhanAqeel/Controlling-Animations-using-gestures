@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlling-Animations-using-gestures", "Assembly-CSharp.csproj", "{C974F204-C6DF-6076-40F1-478CE02119CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Controlling-Animations-using-gestures", "Assembly-CSharp-Editor.csproj", "{685E7A2F-AE8D-F75F-A471-ADC9ABCEF26E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C974F204-C6DF-6076-40F1-478CE02119CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C974F204-C6DF-6076-40F1-478CE02119CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C974F204-C6DF-6076-40F1-478CE02119CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C974F204-C6DF-6076-40F1-478CE02119CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685E7A2F-AE8D-F75F-A471-ADC9ABCEF26E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685E7A2F-AE8D-F75F-A471-ADC9ABCEF26E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685E7A2F-AE8D-F75F-A471-ADC9ABCEF26E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685E7A2F-AE8D-F75F-A471-ADC9ABCEF26E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
